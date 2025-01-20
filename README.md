@@ -1,28 +1,20 @@
 <h1>INSTACRACK</h1>
-
 "The Fastest Instagram Account Cracker."
-
+mahirashaikh4111
 ---------------------------------------
 
 *python3 is required!*
 
 
 git clone https://github.com/Leth4lity/instacrack.git
-
 cd instacrack/
-
 pip install requirements.txt
-
 chmod +x getproxy.sh
-
-bash getproxy.sh && python3 instacrack.py -u <account username here> -p <password list> -px proxy.txt 
-
+bash getproxy.sh && python3 instacrack.py -u <account username here> mahirashaikh4111-p <password list> -px proxy.txt 
+mahirashaikh4111
 <h2>Termux Installation</h2>
-
 pkg install git requests wget curl python3 bash
-
 git clone https://github.com/Leth4lity/instacrack.git
-
 cd instacrack/
 
 
